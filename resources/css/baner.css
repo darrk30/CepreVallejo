@@ -1,0 +1,11 @@
+#slider-pc .slides,
+#slider-mobile .slides {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+}
+
+#slider-pc .slide,
+#slider-mobile .slide {
+    min-width: 100%;
+    transition: opacity 0.5s ease-in-out;
+}

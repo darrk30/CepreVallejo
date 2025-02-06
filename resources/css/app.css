@@ -1,0 +1,12 @@
+/* @import 'baner.css'; */
+@import 'baner.css';
+@import 'conocenos.css';
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+[x-cloak] {
+    display: none;
+}

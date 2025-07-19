@@ -56,7 +56,7 @@
                 </div>
                 <!-- Imagen lateral -->
                 <div class="hidden md:block md:w-1/2 rounded-r-lg"
-                    style="background: url('https://scontent.fcix1-1.fna.fbcdn.net/v/t39.30808-6/327687321_475295858124349_7099153918126242271_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeG_c1VtSMXp3ZxIPjxrvsDZvP7xPYats7O8_vE9hq2zswFix9I5IZ_p-1U2vj5lYBqYTV8kbNZRiFBp9GKf--cH&_nc_ohc=cc16ArkX5bgQ7kNvgGVIwgn&_nc_ht=scontent.fcix1-1.fna&_nc_gid=AuqPnmDoIVikgzMJBZ8X-m9&oh=00_AYCJmOYU5AfHujEXW_NSUJjlH3Vp4lgpY5lkakYQ3oIW7A&oe=670896E7'); background-size: cover; background-position: center center;">
+                    style="background: url('{{ asset('image/bg-login.png') }}'); background-size: cover; background-position: center center;">
                 </div>
             </div>
         </div>
